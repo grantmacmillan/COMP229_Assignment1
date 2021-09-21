@@ -1,0 +1,8 @@
+/* my css will go here */
+.logo-image{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
