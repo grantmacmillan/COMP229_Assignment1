@@ -1,9 +1,13 @@
 {
   "name": "comp229-assignment1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "current version",
+    "npm": "^6.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -18,5 +22,20 @@
     "morgan": "~1.9.1",
     "popper": "^1.0.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "COMP229_Assignment1",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantmacmillan/COMP229_Assignment1.git"
+  },
+  "author": "Grant MacMillan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantmacmillan/COMP229_Assignment1/issues"
+  },
+  "homepage": "https://github.com/grantmacmillan/COMP229_Assignment1#readme"
 }
