@@ -7,4 +7,21 @@
     margin-top: -6px;
 }
 
+body {
+    background-color: #464646;
+    }
 
+    h1 {
+        color: white;
+        font-family: Copperplate Gothic;
+    }
+
+    p {
+        color: white;
+        font-family: Trebuchet MS;
+    }
+
+    li {
+        color: white;
+        font-family: Trebuchet MS;
+    }
